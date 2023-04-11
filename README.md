@@ -24,4 +24,5 @@ If you would like to modify the code and develop the application further, you ca
 Its logic is written in the script.js file, and the HTML and CSS are written in the index.html and style.css files.
 
 Thanks for visiting my profile project 
-love from Nihal Pawar
+
+### Love from Nihal Pawar
